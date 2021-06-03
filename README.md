@@ -14,3 +14,9 @@ Below are some of Visualization snapshots
 # Product Details
 
 ![ProductDetailAdventure](https://user-images.githubusercontent.com/85178650/120580128-420f8400-c446-11eb-8f1b-9a9fa970c0d4.PNG)
+
+# Customer Data
+
+![CustomerData](https://user-images.githubusercontent.com/85178650/120596609-983df080-c461-11eb-823f-a5610cf58987.PNG)
+
+I am Uploading Main file so Please Check And Give me Feedback
